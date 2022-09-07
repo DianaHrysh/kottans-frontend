@@ -19,4 +19,4 @@ Everything is so unusual (but interesting) for me and it takes time to get used 
 
 ## Intro to HTML and CSS
  1.
- 2.+3.[Learn HTML(Eng)and Learn CSS(Eng) ](https://github.com/DianaHrysh/kottans-frontend/blob/main/task_html_css_intro/Screen%20Shot%202022-09-07%20at%2010.49.17%20AM.png)
+ 2.+3. [Learn HTML(Eng)and Learn CSS(Eng) ](https://github.com/DianaHrysh/kottans-frontend/blob/main/task_html_css_intro/Screen%20Shot%202022-09-07%20at%2010.49.17%20AM.png)
