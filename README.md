@@ -11,7 +11,7 @@ However, I decided to make a pull-request only after 2. VCS (hello gitty), GitHu
  3. HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 2 - were boring to read, sorry... I definitely remember the same info from another course (Meta Front-End Developer), but it was easier to memorize with videos.
 
 ## Git Collaboration
- 1. I finished the 3rd and 4th weeks of Introduction to Git And GitHub by Google.
+ 1. I finished [the 3rd and 4th weeks of Introduction to Git And GitHub](https://github.com/DianaHrysh/kottans-frontend/commit/82334c2515395e547142f750d22200e1830a8c3c) by Google.
  2. Also managed to do learngitbranching.js.org:
 Основи: Переміщуємо роботу туди-сюди
 Віддалені репозиторії: Через origin – до зірок. Прогресивне використання Git Remotes
