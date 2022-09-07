@@ -1,7 +1,7 @@
 # kottans-frontend
 
 ## Git Basics 
-That was an interesting introduction to git-adventure. I finished the first and second weeks of Introduction to Git And GitHub bt Google. I also like interactive levels on learngitbranching.js.org . It really helps to understand how things work properly. 
+That was an interesting introduction to git-adventure. I finished the 1st and 2nd weeks of Introduction to Git And GitHub by Google. I also like interactive levels on learngitbranching.js.org . It really helps to understand how things work properly. 
 However, I decided to make a pull-request only after 2. VCS (hello gitty), GitHub, and Collaboration due to my lack of knowledge of how to do this.
 
 ## Linux CLI, and HTTP
@@ -9,3 +9,9 @@ However, I decided to make a pull-request only after 2. VCS (hello gitty), GitHu
  2. HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 1 and
  3. HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 2 - were boring to read, sorry... I definitely remember the same info from another course (Meta Front-End Developer), but it was easier to memorize with videos.
 
+## Git Collaboration
+ 1. I finished the 3rd and 4th weeks of Introduction to Git And GitHub by Google.
+ 2. Also managed to do learngitbranching.js.org:
+Основи: Переміщуємо роботу туди-сюди
+Віддалені репозиторії: Через origin – до зірок. Прогресивне використання Git Remotes
+Everything is so unusual (but interesting) for me and it takes time to get used to this new tools.
