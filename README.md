@@ -12,8 +12,7 @@ However, I decided to make a pull-request only after 2. VCS (hello gitty), GitHu
 
 ## Git Collaboration
  1. I finished [the 3rd and 4th weeks of Introduction to Git And GitHub](https://github.com/DianaHrysh/kottans-frontend/commit/82334c2515395e547142f750d22200e1830a8c3c) by Google.
- 2. Also managed to do learngitbranching.js.org:
-Основи: Переміщуємо роботу туди-сюди
+ 2. Also managed to do: [Основи](https://github.com/DianaHrysh/kottans-frontend/commit/6e3521e2f2f86569b95b2a7cedfaf59f1da1ec01) [learngitbranching.js.org](https://github.com/DianaHrysh/kottans-frontend/blob/main/task_git_collaboration/Screen%20Shot%202022-09-07%20at%2011.50.15%20AM.png) :
 Віддалені репозиторії: Через origin – до зірок. Прогресивне використання Git Remotes
 Everything is so unusual (but interesting) for me and it takes time to get used to this new tools.
 
