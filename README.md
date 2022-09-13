@@ -16,5 +16,5 @@ However, I decided to make a pull-request only after 2. VCS (hello gitty), GitHu
 Everything is so unusual (but interesting) for me and it takes time to get used to this new tools.
 
 ## Intro to HTML and CSS
- 1.
+ 1. [1 week](https://github.com/DianaHrysh/kottans-frontend/blob/main/task_html_css_intro/Screen%20Shot%202022-09-13%20at%2012.15.15%20AM.png) and [2 week](https://github.com/DianaHrysh/kottans-frontend/blob/main/task_html_css_intro/Screen%20Shot%202022-09-13%20at%2012.16.04%20AM.png) are done. The [code module assignment](https://dianahrysh.github.io/module2-solution/) hasn't been rated yet, but believe me it's okay. :) 
  2.+3. [Learn HTML(Eng)and Learn CSS(Eng) ](https://github.com/DianaHrysh/kottans-frontend/blob/main/task_html_css_intro/Screen%20Shot%202022-09-07%20at%2010.49.17%20AM.png)
