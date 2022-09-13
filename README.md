@@ -3,7 +3,8 @@
 ## Git Basics 
 That was an interesting introduction to git-adventure. I finished the [1st and 2nd weeks of Introduction to Git And GitHub by Google](https://github.com/DianaHrysh/kottans-frontend/blob/main/Git%20Basics/Screen%20Shot%202022-09-07%20at%2010.30.57%20AM.png) .
 I also like interactive levels on [learngitbranching.js.org](https://github.com/DianaHrysh/kottans-frontend/blob/main/Git%20Basics/Screen%20Shot%202022-09-07%20at%2012.34.25%20AM.png). It really helps to understand how things work properly. 
-However, I decided to make a pull-request only after 2. VCS (hello gitty), GitHub, and Collaboration due to my lack of knowledge of how to do this.
+However, I decided to make a pull-request only after 2. VCS (hello gitty), GitHub, and Collaboration due to my lack of knowledge of how to do this. 
+UPD: pull-request is finally merged yay!!
 
 ## Linux CLI, and HTTP
  1. [Linux Survival 4 modules](https://github.com/DianaHrysh/kottans-frontend/blob/main/task_linux_cli/IMG_8511.PNG) - was fun and quite easy to understand. I thought it would be more difficult to use the console as far as I've never seen it before. 
