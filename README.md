@@ -26,5 +26,5 @@ Everything is so unusual (but interesting) for me and it takes time to get used 
 1. Responsive web design basics -  I read article and find it useful to structure my previous knowlege. 
 2. [FLEXBOX. Вчимося верстати на флексах](https://github.com/DianaHrysh/kottans-frontend/blob/main/task_responsive_web_design/IMG_8810.PNG) - watched. Previously I had difficulties with understanding flex-direction. Now I got "reverse" logic :)
 3. [Flexbox Froggy](https://github.com/DianaHrysh/kottans-frontend/commit/2712ce8aedff0d5f2489bef3653b99ad1c8bb47f) - done. I love interactive learning. :)
-4.
+4. [CSS Grid Layout](https://github.com/DianaHrysh/kottans-frontend/commit/3e4432828d58a00aeaceccc15131ce8cf1e5fdbd) - done. 
 5.
