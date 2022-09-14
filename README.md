@@ -21,3 +21,10 @@ Everything is so unusual (but interesting) for me and it takes time to get used 
  1. [1 week](https://github.com/DianaHrysh/kottans-frontend/blob/main/task_html_css_intro/Screen%20Shot%202022-09-13%20at%2012.15.15%20AM.png) and [2 week](https://github.com/DianaHrysh/kottans-frontend/blob/main/task_html_css_intro/Screen%20Shot%202022-09-13%20at%205.34.48%20PM.png) are done. The [code module assignment](https://dianahrysh.github.io/module2-solution/) has been rated - [95/100 points](https://github.com/DianaHrysh/kottans-frontend/blob/main/task_html_css_intro/Screen%20Shot%202022-09-13%20at%205.37.54%20PM.png) :)
 
 2.+3. [Learn HTML(Eng)and Learn CSS(Eng) ](https://github.com/DianaHrysh/kottans-frontend/blob/main/task_html_css_intro/Screen%20Shot%202022-09-07%20at%2010.49.17%20AM.png)
+
+## Responsive Web Design
+1. Responsive web design basics -  I read article and find it useful to structure my previous knowlege. 
+2.
+3.
+4.
+5.
