@@ -25,6 +25,6 @@ Everything is so unusual (but interesting) for me and it takes time to get used 
 ## Responsive Web Design
 1. Responsive web design basics -  I read article and find it useful to structure my previous knowlege. 
 2. [FLEXBOX. Вчимося верстати на флексах](https://github.com/DianaHrysh/kottans-frontend/blob/main/task_responsive_web_design/IMG_8810.PNG) - watched. Previously I had difficulties with understanding flex-direction. Now I got "reverse" logic :)
-3.
+3. [Flexbox Froggy](https://github.com/DianaHrysh/kottans-frontend/commit/2712ce8aedff0d5f2489bef3653b99ad1c8bb47f) - done. I love interactive learning. :)
 4.
 5.
